@@ -13,7 +13,8 @@
   "author": "ayush",
   "license": "ISC",
   "engines" : {
-    "node" : "14.15.1"
+    "node" : "14.15.1",
+    "npm" : "6.14.8"
   },
   "bugs": {
     "url": "https://github.com/ayushvpaliwal/placement100/issues"
