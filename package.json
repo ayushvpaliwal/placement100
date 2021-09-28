@@ -1,0 +1,26 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "first server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushvpaliwal/placement100.git"
+  },
+  "author": "ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushvpaliwal/placement100/issues"
+  },
+  "homepage": "https://github.com/ayushvpaliwal/placement100#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
